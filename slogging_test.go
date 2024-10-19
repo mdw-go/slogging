@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mdwhatcott/slogging"
+	"github.com/mdw-go/slogging"
 )
 
 func Test(t *testing.T) {
